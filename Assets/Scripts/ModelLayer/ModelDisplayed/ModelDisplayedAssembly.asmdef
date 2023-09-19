@@ -1,0 +1,20 @@
+{
+    "name": "ModelDisplayedAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:15dd7cdd626d56e409a16672292ffd45",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:c1a9a26f024fc934b9643d7915c6f21f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "CloudRendering"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

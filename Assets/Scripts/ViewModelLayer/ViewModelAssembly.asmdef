@@ -1,0 +1,22 @@
+{
+    "name": "ViewModelAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:c3ef5a5d059b073459fc6bd8eec428d9",
+        "GUID:4e0076b0c8b11db488a72469a51c343c",
+        "GUID:c1a9a26f024fc934b9643d7915c6f21f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "CloudRendering"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

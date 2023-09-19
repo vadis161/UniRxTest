@@ -1,0 +1,16 @@
+{
+    "name": "LogicAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:15dd7cdd626d56e409a16672292ffd45"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

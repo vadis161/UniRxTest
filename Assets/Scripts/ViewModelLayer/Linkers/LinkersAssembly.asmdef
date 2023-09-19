@@ -1,0 +1,17 @@
+{
+    "name": "LinkersAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1e6ad3bcfbfd40147b3c180d3cb72970",
+        "GUID:0a4a5b116b449e6419a4e2f452d7b90e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
